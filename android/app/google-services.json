@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "961362397709",
+    "firebase_url": "https://upark-5284e.firebaseio.com",
+    "project_id": "upark-5284e",
+    "storage_bucket": "upark-5284e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961362397709:android:c20affffe3e0f9d74ce344",
+        "android_client_info": {
+          "package_name": "com.example.upark"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961362397709-qa1tlgblkt9bp53s62683opn25oupapc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.upark",
+            "certificate_hash": "e4bea83c7420b21175c6d6e798d20090ea1052a5"
+          }
+        },
+        {
+          "client_id": "961362397709-e1phcb613bjfc5mnnrbkc3skf5u7kclj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zMJcLo7E53Lds__xQPzOf6YUNPagK7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961362397709-e1phcb613bjfc5mnnrbkc3skf5u7kclj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

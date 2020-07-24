@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.685" height="24.681" viewBox="0 0 24.685 24.681">
+  <g id="activesettingcon" transform="translate(0.895 0.895)">
+    <path id="Path" d="M9.967,1.714a1.992,1.992,0,0,0,2.96,0L13.89.657A1.994,1.994,0,0,1,17.362,2.1l-.072,1.425a1.993,1.993,0,0,0,2.088,2.091L20.8,5.54a1.994,1.994,0,0,1,1.435,3.471l-1.061.957a2,2,0,0,0,0,2.961l1.061.957A1.994,1.994,0,0,1,20.8,17.358l-1.425-.072a1.993,1.993,0,0,0-2.093,2.093l.072,1.425a1.994,1.994,0,0,1-3.463,1.435l-.958-1.06a1.994,1.994,0,0,0-2.96,0l-.962,1.06a1.994,1.994,0,0,1-3.467-1.433l.073-1.425a1.993,1.993,0,0,0-2.093-2.093L2.1,17.36A1.993,1.993,0,0,1,.656,13.892l1.06-.957a2,2,0,0,0,0-2.961L.656,9.011A1.993,1.993,0,0,1,2.09,5.544l1.425.072a1.993,1.993,0,0,0,2.1-2.1L5.542,2.093A1.994,1.994,0,0,1,9.01.657Z" transform="translate(0)" fill="none" stroke="#0e6dff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.7"/>
+    <circle id="Oval" cx="4.581" cy="4.581" r="4.581" stroke-width="1.7" transform="translate(6.866 6.868)" stroke="#0e6dff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+  </g>
+</svg>
